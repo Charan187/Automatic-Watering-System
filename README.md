@@ -112,3 +112,4 @@ This is work done by a team of 5 students from Vellore Institute of Technology, 
   - [M Bhumika](https://github.com/Bhumika-Manchikanti)
   - [Y Lakshmi Saicharitha](https://github.com/LakshmiSaicharitha-Yallarubailu)
   - [T Jayasri](https://github.com/jayasrireddy19)
+  - [Charan](https://github.com/charan187)
